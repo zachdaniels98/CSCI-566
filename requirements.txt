@@ -1,0 +1,8 @@
+datasets
+pandas
+numpy
+collections
+geotext
+wordcloud
+matplotlib
+nltk
